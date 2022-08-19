@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ApocalypseOpossum
 - 👀 I’m interested in ... Python
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Physics Simulations
+- 💞️ I’m looking to collaborate on ... Pygame Projects
 - 📫 How to reach me ... @ApocalypseOpossum reddit
 
 <!---
